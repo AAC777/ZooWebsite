@@ -1,16 +1,18 @@
 body{
-    background-image: url("https://wallpaperaccess.com/full/1862824.png ")
+    background-color: deepskyblue;
+}
+address{
+    color: ghostwhite;
 }
 p{
     color: ghostwhite;
-    font-size: 20px;
-}
-h1{
-    color: ghostwhite;
-}
-a{
-    color: ghostwhite;
 }
 h2{
-    color: ghostwhite;
+    color: gold;
+}
+blockquote {
+    color: yellow;
+}
+h1{
+    color: gold;
 }
